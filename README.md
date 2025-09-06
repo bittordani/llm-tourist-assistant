@@ -118,7 +118,7 @@ Abre `notebook.ipynb` y ejecuta las celdas en orden.
 ## 9) Licencia y créditos
 
 Proyecto académico para fines educativos. La guía original de Tenerife pertenece a sus autores/propietarios.
-Trabajo realizado por Víctor Daniel Martínez para el proyecto de LLM dentro del de Pontia en Inteligencia Artificial, Cloud Computing y DevOps.
+Trabajo realizado por **Víctor Daniel Martínez** para el proyecto de LLM dentro del **Máster de Pontia en Inteligencia Artificial, Cloud Computing y DevOps**.
 
 ---
 
