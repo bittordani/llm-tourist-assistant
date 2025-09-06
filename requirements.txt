@@ -6,3 +6,7 @@ pydantic
 tiktoken
 python-dotenv
 ipykernel
+pypdf
+jupyterlab
+langchain_google_genai
+langchain-community

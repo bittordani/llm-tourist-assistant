@@ -1,0 +1,8 @@
+[2025-09-06T10:35:05] get_weather ok fecha=2025-09-10 -> nublado 20-26ºC
+[2025-09-06T10:35:05] get_weather ERROR fecha=2025-99-99 -> Value error, Formato inválido. Usa AAAA-MM-DD.
+[2025-09-06T10:38:27] get_weather ok fecha=2025-09-10 -> nublado 20-26ºC
+[2025-09-06T10:38:27] get_weather ERROR fecha=2025-99-99 -> Value error, Formato inválido. Usa AAAA-MM-DD.
+[2025-09-06T10:40:29] get_weather ok fecha=2025-09-10 -> nublado 20-26ºC
+[2025-09-06T10:40:29] get_weather ok fecha=2025-12-25 -> soleado 15-22ºC
+[2025-09-06T10:40:29] get_weather ok fecha=2026-01-05 -> viento fuerte 24-28ºC
+[2025-09-06T10:40:29] get_weather ERROR fecha=2025-99-99 -> Value error, Formato inválido. Usa AAAA-MM-DD.
